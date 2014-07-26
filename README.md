@@ -8,9 +8,8 @@ ImageResize
   <li>getImageWidth();</li>
   <li>getImageHeight();</li>
 </ul>
-===========
-Example
-===========
+<b>Example</b>
+
 	require_once("aglima.imageresize.class.php");
 	$Image = new AglimaImageResize();
 	
